@@ -1,4 +1,5 @@
 <script>
+import Entry from "$lib/Entry.svelte";
 import Greeting from "$lib/Greeting.svelte";
 
 </script>
