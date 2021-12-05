@@ -51,7 +51,6 @@
 			<p>Something went wrong while fetching the data:</p>
 			<pre>{error}</pre>
 		{/await}
-		<Entry />
 	</div>
 </section>
 <EntryModal />
